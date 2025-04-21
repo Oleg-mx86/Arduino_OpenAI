@@ -32,4 +32,4 @@ jobs:
       run: |
         echo "Deploying your app..."
         # Add deployment commands here
-        python app.py
+        
